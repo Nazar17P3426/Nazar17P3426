@@ -6,3 +6,4 @@
 - 📫 How to reach me: nazarstetsyura@gmail.com
 - ⚡ Fun fact: I'm Ukrainian!
 - 🇺🇦 Stop war! Save Ukraine!
+- ☕ I love programming in C++!
