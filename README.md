@@ -1,13 +1,10 @@
-### Hello there! 👋
-1. Hi, I'm N17Pro3426! 😃
-2. I'm learning C++ and x86 assembly! 🌱👍
-3. Here you can watch my malwares! 🙃
-4. I'm from Ukraine! 🕐
-5. I like GDI malwares! 👀
-6. How to reach me: nazarstetsyura@gmail.com 📫🏠
-7. I love programming in C++! ☕
-8. Feel free to testing your malwares! 💥
-9. Gender: Male 🚻
-10. Age: 15 👯
-11. YouTube link: https://youtube.com/@nazar7346 📷
-12. Pronous: he/him 😄
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello there! 👋;I'm N17Pro3426! 😃;I'm+coding+in+C%2B%2B" alt="Typing SVG" /></a>
+Here you can watch my malwares! 🙃
+I'm from Ukraine! 🕐
+I like testing GDI malwares! 👀
+How to reach me: nazarstetsyura@gmail.com 📫🏠
+Feel free to testing your malwares! 💥
+Gender: Male 🚻
+Age: 15 👯
+YouTube link: https://youtube.com/@nazar7346 📷
+Pronous: he/him 😄
