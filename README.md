@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fredoka&pause=1000&width=435&lines=Hello there! 👋;I'm N17Pro3426! 😃;I'm+coding+in+C%2B%2B" alt="Typing SVG" /></a>
+👋 Hello there!
+Welcome to my GitHub profile! :D
 1. Here you can watch my malwares! 🙃
 2. I'm from Ukraine, but I'm on Greece! 🕐
 3. I like testing malwares! 👀
