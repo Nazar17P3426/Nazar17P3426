@@ -1,5 +1,4 @@
-👋 Hello there!
-Welcome to my GitHub profile! :D
+👋 Hello, welcome to my GitHub profile! :D
 1. Here you can watch my malwares! 🙃
 2. I'm from Ukraine, but I'm on Greece! 🕐
 3. I like testing malwares! 👀
