@@ -5,6 +5,6 @@
 4. How to reach me: nazarstetsyura@gmail.com 📫🏠
 5. Feel free to testing your malwares! 💥
 6. Gender: Male 🚻
-7. Age: 15 👯
+7. Age: 16 👯
 8. YouTube link: https://youtube.com/@nazar7346 📷
 9. Pronous: he/him 😄
