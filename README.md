@@ -1,10 +1,9 @@
-👋 hello, welcome to my GitHub profile! :D
-1. here you can watch my malwares! 🙃
-2. i'm from Ukraine, but i'm on Greece! 🕐
-3. i like testing malwares! 👀
-4. how to reach me: nazarstetsyura@gmail.com 📫🏠
-5. feel free to testing your malwares! 💥
-6. gender: Male 🚻
-7. age: 17 👯
-8. YouTube link: https://youtube.com/@nazar7346 📷
-9. pronous: he/him 😄
+hello, welcome to my GitHub profile.
+1. here you can try my malwares
+2. i'm from Ukraine
+3. i like testing random malwares
+4. how to reach me: hell nah gtfo
+5. gender: Male
+6. age: 17
+7. YouTube link: https://youtube.com/@nazar7346
+8. pronous: he/him
